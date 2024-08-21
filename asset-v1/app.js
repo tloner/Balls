@@ -67,7 +67,7 @@ var app = new function() {
     }], this.bonusarray = [{
         name: "PFB Balls",
         src: "v1-b1-pfbballs-hb.mp4",
-        code: "1,2,4,6,7",
+        code: "1,2,5,9,13",
         sound: "bonus-pfbballs",
         aspire: "aspire"
     },
